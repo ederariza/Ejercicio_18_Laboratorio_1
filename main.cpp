@@ -31,11 +31,8 @@ int main(){
             else{
                 continue;
             }
-
         }
-
     }
-
 
     return 0;
 }
